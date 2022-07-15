@@ -7,7 +7,10 @@
 body {
     height: 100vh;
     display: flex;
-    background-color: crimson;
+    background-image: url(img/High_resolution_wallpaper_background_ID_77700761894.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .jogo-da-memoria {
